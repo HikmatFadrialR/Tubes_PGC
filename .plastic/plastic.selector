@@ -1,0 +1,4 @@
+repository "Pembangunan_Game_Cerdas@hikmatfadrial2000@cloud"
+  path "/"
+    br "/main"
+    co "/main"

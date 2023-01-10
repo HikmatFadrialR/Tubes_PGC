@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Utilities", "Dreamteck.Utilities.csproj", "{18c07b46-ab23-6df9-9e2a-65027f16f299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines", "Dreamteck.Splines.csproj", "{9a9b986a-e526-99b9-66b4-d9755cdc562b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e263b66d-ca7d-e359-befd-e4f2ca0173e4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Splines.Editor", "Dreamteck.Splines.Editor.csproj", "{1d50c702-2fe5-50bc-01e0-fbd3191092d0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dreamteck.Utilities.Editor", "Dreamteck.Utilities.Editor.csproj", "{d0fe4900-6a9b-5a53-3c9c-58ca0b97e164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f4815289-2e9d-e4ca-7955-ade50d90ce40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18c07b46-ab23-6df9-9e2a-65027f16f299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18c07b46-ab23-6df9-9e2a-65027f16f299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9a9b986a-e526-99b9-66b4-d9755cdc562b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9a9b986a-e526-99b9-66b4-d9755cdc562b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e263b66d-ca7d-e359-befd-e4f2ca0173e4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e263b66d-ca7d-e359-befd-e4f2ca0173e4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1d50c702-2fe5-50bc-01e0-fbd3191092d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1d50c702-2fe5-50bc-01e0-fbd3191092d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d0fe4900-6a9b-5a53-3c9c-58ca0b97e164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d0fe4900-6a9b-5a53-3c9c-58ca0b97e164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f4815289-2e9d-e4ca-7955-ade50d90ce40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f4815289-2e9d-e4ca-7955-ade50d90ce40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
